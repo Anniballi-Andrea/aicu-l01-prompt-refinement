@@ -17,10 +17,3 @@ Indica se basta una versione zero-shot o se servono 1-2 esempi few-shot.
 Non mostrare chain-of-thought estesa: elenca solo assunzioni, criterio e verifica proposta.
 Poi proponi una versione migliore.
 ```
-
-## Strategia Del Prompt Finale
-
-- Zero-shot o few-shot: zero-shot
-- Motivo della scelta: Non servono esempi perché il modello deve solo analizzare il caso
-- Se few-shot, cosa dimostrano gli esempi:
-- Evidenze richieste all'AI: assunzioni: mostrare un messaggio e difinire delle azioni / criterio  / verifica
